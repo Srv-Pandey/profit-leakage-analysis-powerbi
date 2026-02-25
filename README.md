@@ -1,5 +1,11 @@
 # Profit Leakage & Sales Performance Analytics Dashboard
 
+## Dashboard Preview
+![Profit Leakage Analysis Project (For Resume)_page-0001](https://github.com/user-attachments/assets/1aa525b6-809b-49c9-9f28-437d9359034a)
+![Profit Leakage Analysis Project (For Resume)_page-0002](https://github.com/user-attachments/assets/00cc186d-5493-415c-a76e-c11c4deff8b5)
+
+---
+
 ## Business Objective
 Identify profit leakage areas, analyze discount impact, and evaluate category and regional performance using interactive business intelligence dashboards.
 
@@ -28,12 +34,6 @@ Identify profit leakage areas, analyze discount impact, and evaluate category an
 - Certain sub-categories generate losses despite strong sales.
 - West region drives highest profit contribution.
 - Consumer segment dominates overall sales share.
-
----
-
-## Dashboard Preview
-![Profit Leakage Analysis Project (For Resume)_page-0001](https://github.com/user-attachments/assets/1aa525b6-809b-49c9-9f28-437d9359034a)
-![Profit Leakage Analysis Project (For Resume)_page-0002](https://github.com/user-attachments/assets/00cc186d-5493-415c-a76e-c11c4deff8b5)
 
 ---
 ## Author

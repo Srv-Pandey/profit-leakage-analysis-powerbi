@@ -16,6 +16,14 @@ Identify profit leakage areas, analyze discount impact, and evaluate category an
 - Power Query (Data Cleaning & Transformation)
 - Microsoft SQL Serve Managment Studio  (Data Validation)
 - Microsoft Excel (Data Preparation)
+
+---
+
+ ## Technical Implementation
+- Prepared and transformed data using Power Query (handling null values, column formatting, and data cleaning).
+- Created DAX measures for Total Sales, Total Profit, and Profit Margin %.
+- Designed KPI cards and analytical visuals to evaluate profitability, discount impact, and category performance.
+- Validated aggregated metrics using SQL queries before visualization.
   
 ---
 
